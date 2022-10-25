@@ -1,0 +1,2 @@
+Time Complexity: O(N), Iterating over the array of size N 2 times.
+Auxiliary Space: O(N), since N extra space has been taken.
